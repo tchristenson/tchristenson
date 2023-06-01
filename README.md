@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Tommy 👋
+
+I'm an aspiring software engineer graduating from App Academy in June 2023. Technologies I've learned and enjoy using are JavaScript, Python, React / Redux, SQL, and Flask-SQLAlchemy
+
+Find me on <a href="https://www.linkedin.com/in/tommychristenson/">LinkedIn</a> or email me at tchristenson21@gmail.com
+
+<!-- <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div> -->
 
 <!--
 **tchristenson/tchristenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
