@@ -1,6 +1,6 @@
 ### Hi there, I'm Tommy 👋
 
-I'm an aspiring software engineer graduating from App Academy in June 2023. Technologies I've learned and enjoy using are JavaScript, Python, React / Redux, SQL, and Flask-SQLAlchemy
+I'm a full-stack software engineer and graduated from App Academy in June 2023. Technologies I've learned and enjoy using are JavaScript, Python, React / Redux, SQL, and Flask-SQLAlchemy
 
 Find me on <a href="https://www.linkedin.com/in/tommychristenson/">LinkedIn</a> or email me at tchristenson21@gmail.com
 
